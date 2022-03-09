@@ -14,6 +14,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.8.3
 fonttools==4.29.1
+gunicorn==19.9.0
 ipykernel==6.9.1
 ipython==8.1.1
 ipython-genutils==0.2.0
